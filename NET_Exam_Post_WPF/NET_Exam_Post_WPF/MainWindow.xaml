@@ -1,0 +1,20 @@
+﻿<Window x:Class="NET_Exam_Post_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NET_Exam_Post_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="From:" HorizontalAlignment="Left" Height="48" Margin="54,31,0,0" VerticalAlignment="Top" Width="105" FontSize="20"/>
+        <Label Content="To:" HorizontalAlignment="Left" Height="39" Margin="54,84,0,0" VerticalAlignment="Top" Width="105" FontSize="20"/>
+        <TextBox Name="textBoxFrom" HorizontalAlignment="Left" Height="48" Margin="164,31,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="572"/>
+        <TextBox Name="textBoxTo" HorizontalAlignment="Left" Height="39" Margin="164,84,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="572"/>
+        <TextBox Name="textBoxText" HorizontalAlignment="Left" Height="203" Margin="54,144,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="682"/>
+        <Button Name="btnSelect" Content="Select" HorizontalAlignment="Left" Height="44" Margin="159,365,0,0" VerticalAlignment="Top" Width="146" FontSize="20" Click="BtnSelectClick"/>
+        <Button Name="btnSend" Content="Send" HorizontalAlignment="Left" Margin="577,365,0,0" VerticalAlignment="Top" Width="159" Height="44" FontSize="20" Click="BtnSendClick"/>
+        <TextBox Name="textBoxSelectFiles" HorizontalAlignment="Left" Height="44" Margin="54,365,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="100"/>
+
+    </Grid>
+</Window>

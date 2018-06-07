@@ -1,0 +1,15 @@
+c:\users\тогузбаева\source\repos\NET_Exam_Post_WPF\NET_Exam_Post_WPF\bin\Debug\NET_Exam_Post_WPF.exe.config
+c:\users\тогузбаева\source\repos\NET_Exam_Post_WPF\NET_Exam_Post_WPF\bin\Debug\NET_Exam_Post_WPF.exe
+c:\users\тогузбаева\source\repos\NET_Exam_Post_WPF\NET_Exam_Post_WPF\bin\Debug\NET_Exam_Post_WPF.pdb
+c:\users\тогузбаева\source\repos\NET_Exam_Post_WPF\NET_Exam_Post_WPF\obj\Debug\NET_Exam_Post_WPF.csprojResolveAssemblyReference.cache
+c:\users\тогузбаева\source\repos\NET_Exam_Post_WPF\NET_Exam_Post_WPF\obj\Debug\MainWindow.g.cs
+c:\users\тогузбаева\source\repos\NET_Exam_Post_WPF\NET_Exam_Post_WPF\obj\Debug\App.g.cs
+c:\users\тогузбаева\source\repos\NET_Exam_Post_WPF\NET_Exam_Post_WPF\obj\Debug\NET_Exam_Post_WPF_MarkupCompile.cache
+c:\users\тогузбаева\source\repos\NET_Exam_Post_WPF\NET_Exam_Post_WPF\obj\Debug\NET_Exam_Post_WPF_MarkupCompile.lref
+c:\users\тогузбаева\source\repos\NET_Exam_Post_WPF\NET_Exam_Post_WPF\obj\Debug\MainWindow.baml
+c:\users\тогузбаева\source\repos\NET_Exam_Post_WPF\NET_Exam_Post_WPF\obj\Debug\NET_Exam_Post_WPF.g.resources
+c:\users\тогузбаева\source\repos\NET_Exam_Post_WPF\NET_Exam_Post_WPF\obj\Debug\NET_Exam_Post_WPF.Properties.Resources.resources
+c:\users\тогузбаева\source\repos\NET_Exam_Post_WPF\NET_Exam_Post_WPF\obj\Debug\NET_Exam_Post_WPF.csproj.GenerateResource.cache
+c:\users\тогузбаева\source\repos\NET_Exam_Post_WPF\NET_Exam_Post_WPF\obj\Debug\NET_Exam_Post_WPF.csproj.CoreCompileInputs.cache
+c:\users\тогузбаева\source\repos\NET_Exam_Post_WPF\NET_Exam_Post_WPF\obj\Debug\NET_Exam_Post_WPF.exe
+c:\users\тогузбаева\source\repos\NET_Exam_Post_WPF\NET_Exam_Post_WPF\obj\Debug\NET_Exam_Post_WPF.pdb
